@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings version="1.5.1" Author="Frederic Kagan, Brooksi, Yann Ricquebourg">
     <MainWindow>
         <staticFanListHeader>Ventilateurs :</staticFanListHeader>
@@ -9,19 +9,19 @@
         <listColumnSensor>Sonde</listColumnSensor>
         <listColumnSensorValue>Valeur</listColumnSensorValue>
         <listSeparatorDrives>Disques durs :</listSeparatorDrives>
-        <popupMenuItemControl>Changer de contrôle...</popupMenuItemControl>
+        <popupMenuItemControl>Changer de contrôle…</popupMenuItemControl>
         <popupMenuItemReset>Retour au contrôle automatique</popupMenuItemReset>
         <fanControlAutomatic>Automatique</fanControlAutomatic>
         <fanControlAutomaticInfo>Automatique (contrôlé par le système)</fanControlAutomaticInfo>
         <fanControlConstant>Valeur constante à %1</fanControlConstant>
         <fanControlSensor>Basé sur %1</fanControlSensor>
         <fanControlUnknown>Inconnu !</fanControlUnknown>
-        <buttonFanControlCustom>Personnalisé...</buttonFanControlCustom>
+        <buttonFanControlCustom>Personnalisé…</buttonFanControlCustom>
         <buttonFanControlCustomInfo>Spécifier un mode de contrôle personnalisé</buttonFanControlCustomInfo>
         <buttonMinimize>Placer dans le Dock</buttonMinimize>
         <buttonMinimizeMac>Masquer vers la barre des menus</buttonMinimizeMac>
-        <buttonPreferences>Préférences...</buttonPreferences>
-        <buttonAbout>À propos...</buttonAbout>
+        <buttonPreferences>Préférences…</buttonPreferences>
+        <buttonAbout>À propos…</buttonAbout>
         <messageHelperToolInstall>Macs Fan Control nécessite l'installation d'un outil d'aide au contrôle du ventilateur. Vous pouvez ignorer cette option si vous souhaitez uniquement surveiller les ventilateurs et les capteurs de température.</messageHelperToolInstall>
         <messageHelperToolUpgrade>Macs Fan Control doit installer une version mise à jour de l'outil d'aide utilisé pour le contrôle des ventilateurs.</messageHelperToolUpgrade>
         <messageFanControlNotAvailableTitle>Contrôle de ventilateur non disponible</messageFanControlNotAvailableTitle>
@@ -42,19 +42,19 @@
         <activePresetLabel>Présélection active :</activePresetLabel>
         <presetAutomatic>Automatique</presetAutomatic>
         <presetFullBlast>Plein régime</presetFullBlast>
-        <presetCurrentUnsaved>Editer*</presetCurrentUnsaved>
-        <presetMenuSave>Sauvegarder...</presetMenuSave>
+        <presetCurrentUnsaved>Éditer*</presetCurrentUnsaved>
+        <presetMenuSave>Sauvegarder…</presetMenuSave>
         <presetMenuRename>Renomer</presetMenuRename>
         <presetMenuDelete>Supprimer</presetMenuDelete>
         <presetMenuPredefined>Préréglages prédéfini :</presetMenuPredefined>
-        <presetMenuCustom>Custom presets:</presetMenuCustom>
-        <presetMenuApply>Apply</presetMenuApply>
+        <presetMenuCustom>Préréglages personalisés :</presetMenuCustom>
+        <presetMenuApply>Appliquer</presetMenuApply>
         <presetMenuProVersion>Disponible en version PRO</presetMenuProVersion>
         <presetMenuCurrent>Préréglage - %1</presetMenuCurrent>
         <presetMenuDiscard>Annuler les modifications (réinitialiser tous les ventilateurs sur auto)</presetMenuDiscard>
         <labelPresetName>Nom du préréglage :</labelPresetName>
         <savePresetTitle>Enregistrer le préréglage personnalisé</savePresetTitle>
-        <editPresetTitle>Editer le nom du préréglage</editPresetTitle>
+        <editPresetTitle>Éditer le nom du préréglage</editPresetTitle>
     </Presets>
     <UpgradeToProDialog>
         <title>Mise à niveau vers Mac Fan Control Pro</title>
@@ -82,7 +82,7 @@
         <itemShow>Afficher Macs Fan Control</itemShow>
         <itemMoreLinks>Plus</itemMoreLinks>
         <itemWebsite>Site web</itemWebsite>
-        <itemCheckForUpdates>Rechercher des mises à jour...</itemCheckForUpdates>
+        <itemCheckForUpdates>Rechercher des mises à jour…</itemCheckForUpdates>
         <itemRateApp>Noter sur Macupdate</itemRateApp>
         <itemFollowTwitter>Suivre @crystalidea</itemFollowTwitter>
         <itemExit>Quitter</itemExit>
@@ -138,7 +138,7 @@
     <core>
         <UpdateChecker>
             <ReleasedOn>publié le %1</ReleasedOn>
-            <CheckForUpdates>Rechercher des mises à jour...</CheckForUpdates>
+            <CheckForUpdates>Rechercher des mises à jour…</CheckForUpdates>
             <NewVersionAvailable>Une nouvelle version de %1 est disponible !</NewVersionAvailable>
             <NewVersionAvailableText>%1 %2 est disponible ; vous utilisez la version %3. Voulez-vous le télécharger maintenant ?</NewVersionAvailableText>
             <UpdateAlertTitle>Mise à jour du logiciel</UpdateAlertTitle>
@@ -154,8 +154,8 @@
             <UpdateProgressTitle>Mise à jour de %1</UpdateProgressTitle>
             <UpdateProgressCancel>Annuler</UpdateProgressCancel>
             <UpdateProgressInstallAndRelaunch>Installer et relancer</UpdateProgressInstallAndRelaunch>
-            <UpdateProgressStatusDownloading>Téléchargement de la mise à jour...</UpdateProgressStatusDownloading>
-            <UpdateProgressExtract>Extraction de la mise à jour...</UpdateProgressExtract>
+            <UpdateProgressStatusDownloading>Téléchargement de la mise à jour…</UpdateProgressStatusDownloading>
+            <UpdateProgressExtract>Extraction de la mise à jour…</UpdateProgressExtract>
             <UpdateProgressStatusReady>Prêt pour l’installation</UpdateProgressStatusReady>
             <UpdateProgressSize>%1 sur %2</UpdateProgressSize>
             <UpdateProgressB>octets</UpdateProgressB>
